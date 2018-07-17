@@ -5,6 +5,7 @@ This keyboard is initially built with Swedish keyboard layout in mind,
 however, it should be easy to insert which ever keyboard layout you
 are comfortable with. This is a sketch of how my keyboard is designed
 at the moment.
+```
 
                         +----+                               ###                               +----+
                  +----+ | 4  | +----+ +----+ +----+          ###          +----+ +----+ +----+ | 9  | +----+
@@ -35,6 +36,7 @@ at the moment.
 		                      |    | |    | |ALT |   ### | PTR  | |    | |    |
 		                      |    | |    | |    |   ### |______| |    | |    |
                                       +----+ +----+ +----+   ###          +----+ +----+
+```
 
 As many may notice, I have added a mouse pointer to the right hand
 side of the keyboard. My philosophy is that you should not have to
